@@ -18,6 +18,7 @@
 - 🔭 I’m currently a Computer Science PhD student in University of St Andrews 
 - 🌱 I’m currently learning Ontology and Knowledge Graph, how to write a proper **About me**
 - 🤔 I’m looking for help with my procrastination!
+- 🏹 🍿 🎮 🚗Love archery, Sci-Fi movies video games, walking
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 ```javascript
